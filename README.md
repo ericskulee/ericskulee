@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/><a href="[(https://github.com/ericskulee/ericskulee)]">Cybersecurity</a>, <a href="(https://www.linkedin.com/in/eric-kulee/)/">Governce Rick Complaince</a>, 
+<h1>Hi, I'm Eric! <br/><a href="[(https://github.com/ericskulee/ericskulee)]">Cybersecurity</a>, <a href="(https://www.linkedin.com/in/eric-kulee/)/">Governance Rick Complaince</a>, 
 <h2>👨‍💻 Vulnerability Management Projects:</h2>
 
 - <b>Quarly's Vulnerability Management Detection and Response (VMDR)</b>
