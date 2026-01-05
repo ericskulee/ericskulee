@@ -1,44 +1,27 @@
-<h1>Hi, I'm Eric! <br/><a href="[(https://github.com/ericskulee/ericskulee)]">Cybersecurity</a>, <a href="(https://www.linkedin.com/in/eric-kulee/)/">Governance Rick Complaince</a>, 
-<h2>👨‍💻 Vulnerability Management Projects:</h2>
+# Eric S. Kulee — Cybersecurity (Vulnerability Mgmt • GRC • IAM)
 
-- <b>Quarly's Vulnerability Management Detection and Response (VMDR)</b>
-  - [GRC Analyst | ISO 27001 Lead Auditor](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Google Cybersecurity Certificate)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>WireShark</b>
+I build repeatable security processes that reduce risk: **vulnerability prioritization**, **control evidence (GRC)**, and **access governance (IAM)**.  
+My portfolio focuses on practical, hiring-relevant work: **scan → prioritize → remediate → report**, plus audit-ready documentation and identity lifecycle controls.
 
+## Pinned Projects
+### 1) VulnOps Pipeline (Scan → Normalize → Prioritize → Track → Report)
+A vulnerability operations workflow that converts scan output into risk-based priorities, remediation SLAs, and executive/technical reports.  
+**Skills:** vulnerability management, CVE/CVSS, triage, remediation tracking, reporting, automation (Python).
 
-<h2>📺 Popular YouTube Videos</h2>
+### 2) GRC Evidence Pack + Risk Register
+A GRC starter kit with control mapping, audit-ready evidence structure, and a practical risk register with scoring and remediation tracking.  
+**Skills:** GRC, controls, risk assessment, evidence management, policy/procedure structure, vendor risk.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+### 3) IAM Lifecycle Lab (Joiner/Mover/Leaver + RBAC + Access Reviews)
+An IAM lab demonstrating user lifecycle workflows, RBAC, deprovisioning, and access review reporting.  
+**Skills:** IAM, RBAC, access reviews, provisioning/deprovisioning, least privilege, governance.
 
-<h2> 🤳 Connect with me:</h2>
+## Core Skills
+- Vulnerability Management: triage, prioritization, remediation SLAs, reporting
+- GRC: risk registers, control mapping, audit evidence, policy/procedure documentation
+- IAM: joiner/mover/leaver, RBAC, access reviews, least privilege
+- Security Operations: documentation, process design, stakeholder communication
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: https://www.linkedin.com/in/eric-kulee/
+- Email: ericskulee@gmail.com
