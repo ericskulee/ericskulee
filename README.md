@@ -2,29 +2,45 @@
   https://github.com/ericskulee/vulnops-pipeline
 
 
-# Eric S. Kulee — Cybersecurity (Vulnerability Mgmt • GRC • IAM)
+# Eric S. Kulee
+**Cybersecurity | Vulnerability Management • GRC • IAM**  
+Open to: **Vulnerability Analyst • SOC Analyst (Jr) • GRC Analyst • IAM Analyst • IT Support**
 
-I build repeatable security processes that reduce risk: **vulnerability prioritization**, **control evidence (GRC)**, and **access governance (IAM)**.
+## Featured project (proof of work)
+### ✅ VulnOps Pipeline (Scan → Prioritize → SLA → Executive + Technical Reports)
+![VulnOps Pipeline](https://github.com/ericskulee/vulnops-pipeline/actions/workflows/vulnops.yml/badge.svg)
 
-## Featured Projects
-- **VulnOps Pipeline (Scan → Prioritize → SLA → Report)**  
-  https://github.com/ericskulee/vulnops-pipeline
+- Turns vulnerability findings + asset context into **risk-ranked priorities**
+- Assigns **SLA days + due dates**
+- Generates **Executive Summary** + **Technical Remediation** reports
+- Runs in **GitHub Actions** (CI) with downloadable artifacts
 
-- **GRC Evidence Pack + Risk Register (Controls → Evidence → Audit-ready structure)**  
-  https://github.com/ericskulee/grc-evidence-pack
+Repo: https://github.com/ericskulee/vulnops-pipeline
 
-- **IAM Lifecycle Lab (Joiner/Mover/Leaver + RBAC + Access Reviews)**  
-  https://github.com/ericskulee/iam-lifecycle-lab
+---
 
-## Core Skills
-- Vulnerability Management: triage, prioritization, remediation SLAs, reporting
-- GRC: risk registers, control mapping, audit evidence, policy/procedure structure
-- IAM: JML lifecycle, RBAC, access reviews, least privilege
+## Focus areas
+- **Vulnerability Management:** prioritization, remediation tracking, SLA policy, reporting
+- **GRC:** control mapping, evidence collection, policy/process documentation
+- **IAM:** RBAC concepts, access reviews, least privilege, joiner/mover/leaver workflows
+
+## Skills & tools (pick what matches your target jobs)
+- Frameworks: NIST CSF / NIST 800-53 concepts, CIS Controls, ISO 27001 concepts
+- Security ops: triage, alert investigation basics, documentation, incident support
+- Data/automation: Python basics, CSV pipelines, reporting, GitHub Actions
+- Platforms (if applicable): Splunk / Elastic / Microsoft Sentinel, Qualys / Nessus
+
+## What I’m building next
+- **GRC Evidence Pack** (audit-ready control → evidence repo)
+- **IAM JML Lab** (joiner/mover/leaver + access review workflow)
 
 ## Contact
-- LinkedIn: (https://www.linkedin.com/in/eric-kulee/)
+- LinkedIn: <YOUR LINK HERE>
+- Email: <YOUR EMAIL HERE>
+
 
 ## Run it locally (optional)
+**Requirements:** Python 3.11+
 
 ```bash
 python src/generate_reports.py \
