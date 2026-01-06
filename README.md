@@ -18,4 +18,4 @@ I build repeatable security processes that reduce risk: **vulnerability prioriti
 - IAM: JML lifecycle, RBAC, access reviews, least privilege
 
 ## Contact
-- LinkedIn: (paste your LinkedIn link here)
+- LinkedIn: (https://www.linkedin.com/in/eric-kulee/)
