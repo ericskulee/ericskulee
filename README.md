@@ -1,3 +1,7 @@
+- **VulnOps Pipeline (Scan → Prioritize → SLA → Report)**  
+  https://github.com/ericskulee/vulnops-pipeline
+
+
 # Eric S. Kulee — Cybersecurity (Vulnerability Mgmt • GRC • IAM)
 
 I build repeatable security processes that reduce risk: **vulnerability prioritization**, **control evidence (GRC)**, and **access governance (IAM)**.
