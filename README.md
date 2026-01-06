@@ -35,8 +35,8 @@ Repo: https://github.com/ericskulee/vulnops-pipeline
 - **IAM JML Lab** (joiner/mover/leaver + access review workflow)
 
 ## Contact
-- LinkedIn: <YOUR LINK HERE>
-- Email: <YOUR EMAIL HERE>
+- LinkedIn: <https://www.linkedin.com/in/eric-kulee/>
+- Email: <ericskulee@gmail.com>
 
 
 ## Run it locally (optional)
