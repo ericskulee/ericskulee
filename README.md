@@ -19,3 +19,12 @@ I build repeatable security processes that reduce risk: **vulnerability prioriti
 
 ## Contact
 - LinkedIn: (https://www.linkedin.com/in/eric-kulee/)
+
+## Run it locally (optional)
+
+```bash
+python src/generate_reports.py \
+  --findings sample_data/scans/scan_findings.csv \
+  --assets sample_data/assets.csv \
+  --outdir outputs \
+  --reportdir reports
