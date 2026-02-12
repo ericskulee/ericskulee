@@ -1,12 +1,9 @@
-- **VulnOps Pipeline (Scan → Prioritize → SLA → Report)**  
-  https://github.com/ericskulee/vulnops-pipeline
-
-
 # Eric S. Kulee
 **Cybersecurity | Vulnerability Management • GRC • IAM**  
 Open to: **Vulnerability Analyst • SOC Analyst (Jr) • GRC Analyst • IAM Analyst • IT Support**
 
-## Featured project (proof of work)
+## Featured proof of work
+
 ### ✅ VulnOps Pipeline (Scan → Prioritize → SLA → Executive + Technical Reports)
 ![VulnOps Pipeline](https://github.com/ericskulee/vulnops-pipeline/actions/workflows/vulnops.yml/badge.svg)
 
@@ -17,6 +14,12 @@ Open to: **Vulnerability Analyst • SOC Analyst (Jr) • GRC Analyst • IAM An
 
 Repo: https://github.com/ericskulee/vulnops-pipeline
 
+### ✅ Nessus Lab Evidence Pack (Credentialed Scan — Ubuntu “TargetJuice”)
+- Evidence pack: **PDF report + screenshots + summary**
+- Shows: scan configuration, execution, results review, and remediation-oriented analysis
+
+Evidence: https://github.com/ericskulee/vulnops-pipeline/tree/main/docs/nessus
+
 ---
 
 ## Focus areas
@@ -24,20 +27,20 @@ Repo: https://github.com/ericskulee/vulnops-pipeline
 - **GRC:** control mapping, evidence collection, policy/process documentation
 - **IAM:** RBAC concepts, access reviews, least privilege, joiner/mover/leaver workflows
 
-## Skills & tools (pick what matches your target jobs)
-- Frameworks: NIST CSF / NIST 800-53 concepts, CIS Controls, ISO 27001 concepts
+## Skills & tools
+- Frameworks: NIST CSF / NIST 800-53 (concepts), CIS Controls, ISO 27001 (concepts)
+- VM tools: **Nessus**, Qualys (if used), remediation validation workflows
 - Security ops: triage, alert investigation basics, documentation, incident support
-- Data/automation: Python basics, CSV pipelines, reporting, GitHub Actions
-- Platforms (if applicable): Splunk / Elastic / Microsoft Sentinel, Qualys / Nessus
+- Data/automation: Python (basics), CSV pipelines, reporting, GitHub Actions
+- SIEM (if used): Splunk / Elastic / Microsoft Sentinel
 
 ## What I’m building next
 - **GRC Evidence Pack** (audit-ready control → evidence repo)
 - **IAM JML Lab** (joiner/mover/leaver + access review workflow)
 
 ## Contact
-- LinkedIn: <https://www.linkedin.com/in/eric-kulee/>
-- Email: <ericskulee@gmail.com>
-
+- LinkedIn: https://www.linkedin.com/in/eric-kulee/
+- Email: ericskulee@gmail.com
 
 ## Run it locally (optional)
 **Requirements:** Python 3.11+
